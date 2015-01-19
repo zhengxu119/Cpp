@@ -29,14 +29,25 @@ C++学习
 [第18章 用于大型程序的工具] <br />
 [第19章 特殊工具与技术] <br />
 
-<p>Here is an example of AppleScript:</p>
 
+#####代码区段
 <pre><code>
 int main()
 {
  return 0;
 }
 </code></pre>
+#####连接的定义
+This is [an example](http://example.com/ "Title") inline link.
+[id]: <http://example.com/>  "Optional Title Here"
+#####强调
+*single asterisks*
+__double underscores__
+#####代码
+Use the `printf()` function.
+#####图片
+![Alt text](/path/to/img.jpg)
+[id]: url/to/image  "Optional title attribute"
 
 
 

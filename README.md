@@ -31,10 +31,11 @@ C++学习
 
 <p>Here is an example of AppleScript:</p>
 
-<pre><code>int main()
-				{
-				  return 0;
-				}
+<pre><code>
+int main()
+{
+		return 0;
+}
 </code></pre>
 
 

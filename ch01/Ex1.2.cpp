@@ -1,7 +1,6 @@
 #include <iostream>
 int main()
 {
-  std::cout<<"请输入两个数字:"<<std::endl;
-		
+  std::cout<<"Hello,World"<<std::endl;
 		return 0;
 }

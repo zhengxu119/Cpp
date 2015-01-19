@@ -31,9 +31,11 @@ C++学习
 
 <p>Here is an example of AppleScript:</p>
 
-<pre><code>tell application "Foo"
-    beep
-end tell
+<pre><code>
+    int main()
+				{
+				  return 0;
+				}
 </code></pre>
 
 

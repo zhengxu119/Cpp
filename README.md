@@ -29,11 +29,12 @@ C++学习
 [第18章 用于大型程序的工具] <br />
 [第19章 特殊工具与技术] <br />
 
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
+<p>Here is an example of AppleScript:</p>
+
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
 
 
 

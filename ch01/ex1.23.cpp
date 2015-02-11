@@ -8,11 +8,18 @@ int main()
 		{
 		  while(std::cin>>val)
 				{
-				  if(currItem.isbn()==val.isbn)
+				  if(currItem.isbn()==val.isbn())
 						{
 						  cnt++;
 						}
+						else
+						{
+						  std::cout<<currItem<<" 销售数量:"<<cnt<<std::endl;
+								currItem=val;
+								cnt=1;
+						}
 				}
+				std::cout<<currItem<<" 销售数量:"<<cnt<<std::endl;
 		}
 		return 0;
 }
